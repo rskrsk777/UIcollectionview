@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  UIcollectionview
-//
-//  Created by ryosuke kubo on 2019/01/09.
-//  Copyright © 2019 ryosuke kubo. All rights reserved.
-//
+
 
 import UIKit
 
